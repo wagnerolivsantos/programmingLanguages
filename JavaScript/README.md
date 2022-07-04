@@ -31,7 +31,7 @@
 
 ## 📚 Table of Contents
 
-<p>🔴<a href="/Code/typeNumber.js"> Types of Numbers</a></p>
+<p>🔴<a href="Code/typeNumber.js"> Types of Numbers</a></p>
 
 ##
 
